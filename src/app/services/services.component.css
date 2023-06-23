@@ -1,0 +1,62 @@
+.servicesheader{
+    background: url('/assets/services.jpg');
+    /* linear-gradient(0deg, rgba(6, 9, 34), rgba(6, 9, 34)), */
+    /* height: 80vh;  */
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.servicesheader h4{
+    color: #f8f9fa;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: 50px;
+    /* line-height: 40px;
+    padding: 30px; */
+}
+.servicesheader p{
+    color: #f8f9fa;    
+    text-align: justify;
+    font-family: "Raleway";
+    font-size: 18px;
+    margin-bottom: 85px;
+    /* line-height: 28px; */
+}
+.product h4{
+    color: #2e3192;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.card{
+    background-color: #26aae1;
+    margin-bottom: 20px;
+}
+.card h5{
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+}
+.product_info{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    background: #032237;
+}
+.product_info h4{
+    color: #0d6efd;
+    text-align: center;
+    font-family: "Raleway";
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.wpb_wrapper{
+    color: #24abe1;
+    margin-top: 50px;;
+}
